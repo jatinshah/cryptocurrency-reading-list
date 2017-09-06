@@ -5,8 +5,8 @@
 
 ## Start Here
 - [The Definitive Crypto Guide](https://mycrypto.guide/#dbft)
-- [Blockchain 101](https://coincenter.org/learn)
-- [Crypto Tokens: A Breakthrough in Open Network Design](https://medium.com/@cdixon/crypto-tokens-a-breakthrough-in-open-network-design-e600975be2ef)
+- [Blockchain 101 | Coincenter](https://coincenter.org/learn)
+- [Crypto Tokens: A Breakthrough in Open Network Design | Chris Dixon](https://medium.com/@cdixon/crypto-tokens-a-breakthrough-in-open-network-design-e600975be2ef)
 - [Fat Protocols | Joel Monegro](http://www.usv.com/blog/fat-protocols)
 - [Blockchain Tokens and the dawn of the Decentralized Business Model](https://blog.coinbase.com/app-coins-and-the-dawn-of-the-decentralized-business-model-8b8c951e734f)
 - [Gentle Introduction Series | Bits on Blocks](https://bitsonblocks.net/)
@@ -23,7 +23,7 @@
 - [ICO Pros & Cons: Cutting Through The Hype](https://medium.com/outlier-ventures-io/ico-pros-cons-cutting-through-the-hype-d4b58cbd77a8)
 
 ## Scaling Blockchain
-- [Scaling Ethereum to Billions of Users](https://medium.com/@FEhrsam/scaling-ethereum-to-billions-of-users-f37d9f487db1)
+- [Scaling Ethereum to Billions of Users | Fred Ehrsam](https://medium.com/@FEhrsam/scaling-ethereum-to-billions-of-users-f37d9f487db1)
 - [Blockchains don’t scale. Not today, at least. But there’s hope.](https://hackernoon.com/blockchains-dont-scale-not-today-at-least-but-there-s-hope-2cb43946551a)
 
 ## Whitepapers
@@ -34,7 +34,7 @@
 ## Podcasts
 - [a16z Podcast: Cryptocurrencies, App Coins, and Investing in Protocols](https://a16z.com/2017/04/03/cryptocurrencies-protocols-appcoins/)
 - [a16z Podcast: Ethereum, App Coins & Beyond](https://a16z.com/2016/08/28/ethereum/)
-- [The Tim Ferris Show | The Quiet Master of Cryptocurrency — Nick Szabo](https://tim.blog/2017/06/04/nick-szabo/)
+- [The Tim Ferris Show: The Quiet Master of Cryptocurrency — Nick Szabo](https://tim.blog/2017/06/04/nick-szabo/)
 
 ## Other Reading Lists
 - [Chris Dixon](https://medium.com/@cdixon/crypto-token-roundup-4d57c32a87d7)
