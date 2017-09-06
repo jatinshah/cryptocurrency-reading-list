@@ -1,16 +1,20 @@
 # Reading list on Cryptocurrencies like Bitcoin & Ethereum, Crypto tokens and Blockchain
 
-| [Start Here](#start-here) | [Initial Coin Offerings (ICOs)](#initial-coin-offerings) | [Whitepapers](#whitepapers) | [Podcasts](#podcasts) | [Other Reading Lists](#other-reading-lists) 
-| ------------- | ------------- | ------------- | ------------- | ------------- |
+| [Start Here](#start-here) | [Initial Coin Offerings (ICOs)](#initial-coin-offerings) | [Scaling Blockchain](#scaling-blockchain) |  [Whitepapers](#whitepapers) | [Podcasts](#podcasts) | [Other Reading Lists](#other-reading-lists) 
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 
 ## Start Here
 - [The Definitive Crypto Guide](https://mycrypto.guide/#dbft)
 - [Blockchain 101](https://coincenter.org/learn)
 
 ## Initial Coin Offerings
-- [A Securities Law Framework for Blockchain Tokens](https://www.coinbase.com/legal/securities-law-framework.pdf)
+- [A Securities Law Framework for Blockchain Tokens | Coinbase](https://www.coinbase.com/legal/securities-law-framework.pdf)
 - [Bitcoin, Ethereum, Blockchain, Tokens, ICOs: Why should anyone care?](https://hackernoon.com/bitcoin-ethereum-blockchain-tokens-icos-why-should-anyone-care-890b868cec06)
-- [Is your cryptotoken a security?](https://coincenter.org/entry/is-your-cryptotoken-a-security-this-new-tool-will-help-you-find-out)
+- [Is your cryptotoken a security? | Coincenter](https://coincenter.org/entry/is-your-cryptotoken-a-security-this-new-tool-will-help-you-find-out)
+
+## Scaling Blockchain
+- [Scaling Ethereum to Billions of Users](https://medium.com/@FEhrsam/scaling-ethereum-to-billions-of-users-f37d9f487db1)
+- [Blockchains don’t scale. Not today, at least. But there’s hope.](https://hackernoon.com/blockchains-dont-scale-not-today-at-least-but-there-s-hope-2cb43946551a)
 
 ## Whitepapers
 - [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
