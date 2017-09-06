@@ -20,6 +20,7 @@
 - [A Securities Law Framework for Blockchain Tokens | Coinbase](https://www.coinbase.com/legal/securities-law-framework.pdf)
 - [Bitcoin, Ethereum, Blockchain, Tokens, ICOs: Why should anyone care?](https://hackernoon.com/bitcoin-ethereum-blockchain-tokens-icos-why-should-anyone-care-890b868cec06)
 - [Is your cryptotoken a security? | Coincenter](https://coincenter.org/entry/is-your-cryptotoken-a-security-this-new-tool-will-help-you-find-out)
+- [ICO Pros & Cons: Cutting Through The Hype](https://medium.com/outlier-ventures-io/ico-pros-cons-cutting-through-the-hype-d4b58cbd77a8)
 
 ## Scaling Blockchain
 - [Scaling Ethereum to Billions of Users](https://medium.com/@FEhrsam/scaling-ethereum-to-billions-of-users-f37d9f487db1)
