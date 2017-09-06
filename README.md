@@ -1,7 +1,7 @@
 # Reading list on Cryptocurrencies like Bitcoin & Ethereum, Crypto tokens and Blockchain
 
-| [Start Here](#start-here) | [Initial Coin Offerings (ICOs)](#initial-coin-offerings) | [Scaling Blockchain](#scaling-blockchain) |  [Whitepapers](#whitepapers) | [Podcasts](#podcasts) | [Other Reading Lists](#other-reading-lists) 
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| [Start Here](#start-here) | [Cryptoeconomics](#cryptoeconomics) | [Initial Coin Offerings (ICOs)](#initial-coin-offerings) | [Scaling Blockchain](#scaling-blockchain) |  [Whitepapers](#whitepapers) | [Podcasts](#podcasts) | [Other Reading Lists](#other-reading-lists) 
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 
 ## Start Here
 - [The Definitive Crypto Guide](https://mycrypto.guide/#dbft)
@@ -9,9 +9,12 @@
 - [Crypto Tokens: A Breakthrough in Open Network Design](https://medium.com/@cdixon/crypto-tokens-a-breakthrough-in-open-network-design-e600975be2ef)
 - [Fat Protocols | Joel Monegro](http://www.usv.com/blog/fat-protocols)
 - [Blockchain Tokens and the dawn of the Decentralized Business Model](https://blog.coinbase.com/app-coins-and-the-dawn-of-the-decentralized-business-model-8b8c951e734f)
+- [Gentle Introduction Series | Bits on Blocks](https://bitsonblocks.net/)
+
+## Cryptoeconomics
 - [God Protocols](https://web.archive.org/web/20160413224152/http://web.archive.org/web/20061230075325/http://www.theiia.org/ITAudit/index.cfm?act=itaudit.archive&fid=216)
 - [The Idea of Smart Contracts | Nick Szabo](https://perma.cc/V6AZ-7V8W)
-- [Gentle Introduction Series | Bits on Blocks](https://bitsonblocks.net/)
+- [Cryptoeconomics | Nick Tomaino](https://thecontrol.co/cryptoeconomics-101-e5c883e9a8ff)
 
 ## Initial Coin Offerings
 - [A Securities Law Framework for Blockchain Tokens | Coinbase](https://www.coinbase.com/legal/securities-law-framework.pdf)
