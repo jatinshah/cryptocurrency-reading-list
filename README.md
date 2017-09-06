@@ -11,6 +11,7 @@
 - [Blockchain Tokens and the dawn of the Decentralized Business Model](https://blog.coinbase.com/app-coins-and-the-dawn-of-the-decentralized-business-model-8b8c951e734f)
 - [God Protocols](https://web.archive.org/web/20160413224152/http://web.archive.org/web/20061230075325/http://www.theiia.org/ITAudit/index.cfm?act=itaudit.archive&fid=216)
 - [The Idea of Smart Contracts | Nick Szabo](https://perma.cc/V6AZ-7V8W)
+- [Gentle Introduction Series | Bits on Blocks](https://bitsonblocks.net/)
 
 ## Initial Coin Offerings
 - [A Securities Law Framework for Blockchain Tokens | Coinbase](https://www.coinbase.com/legal/securities-law-framework.pdf)
