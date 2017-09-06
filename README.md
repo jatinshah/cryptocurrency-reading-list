@@ -4,6 +4,7 @@
 | ------------- | ------------- | 
 
 ## Start Here
+- [The Definitive Crypto Guide](https://mycrypto.guide/#dbft)
 
 ## Other Reading Lists
 - [Chris Dixon](https://medium.com/@cdixon/crypto-token-roundup-4d57c32a87d7)
