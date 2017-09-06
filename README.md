@@ -14,7 +14,7 @@
 
 ## Whitepapers
 - [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
-- [Bitcoin's Academic Pedigree | ACM Queue, Aug 2017] (http://queue.acm.org/detail.cfm?id=3136559)
+- [Bitcoin's Academic Pedigree | ACM Queue, Aug 2017](http://queue.acm.org/detail.cfm?id=3136559)
 
 ## Podcasts
 - [a16z Podcast: Cryptocurrencies, App Coins, and Investing in Protocols](https://a16z.com/2017/04/03/cryptocurrencies-protocols-appcoins/)
