@@ -8,6 +8,7 @@
 - [Blockchain 101](https://coincenter.org/learn)
 
 ## Initial Coin Offerings
+- [A Securities Law Framework for Blockchain Tokens](https://www.coinbase.com/legal/securities-law-framework.pdf)
 
 ## Podcasts
 - [a16z Podcast: Cryptocurrencies, App Coins, and Investing in Protocols](https://a16z.com/2017/04/03/cryptocurrencies-protocols-appcoins/)
