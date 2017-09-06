@@ -6,6 +6,11 @@
 ## Start Here
 - [The Definitive Crypto Guide](https://mycrypto.guide/#dbft)
 - [Blockchain 101](https://coincenter.org/learn)
+- [Crypto Tokens: A Breakthrough in Open Network Design](https://medium.com/@cdixon/crypto-tokens-a-breakthrough-in-open-network-design-e600975be2ef)
+- [Fat Protocols | Joel Monegro](http://www.usv.com/blog/fat-protocols)
+- [Blockchain Tokens and the dawn of the Decentralized Business Model](https://blog.coinbase.com/app-coins-and-the-dawn-of-the-decentralized-business-model-8b8c951e734f)
+- [God Protocols](https://web.archive.org/web/20160413224152/http://web.archive.org/web/20061230075325/http://www.theiia.org/ITAudit/index.cfm?act=itaudit.archive&fid=216)
+- [The Idea of Smart Contracts | Nick Szabo](https://perma.cc/V6AZ-7V8W)
 
 ## Initial Coin Offerings
 - [A Securities Law Framework for Blockchain Tokens | Coinbase](https://www.coinbase.com/legal/securities-law-framework.pdf)
@@ -18,11 +23,13 @@
 
 ## Whitepapers
 - [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
+- [Ethereum Whitepaper](https://github.com/ethereum/wiki/wiki/White-Paper)
 - [Bitcoin's Academic Pedigree | ACM Queue, Aug 2017](http://queue.acm.org/detail.cfm?id=3136559)
 
 ## Podcasts
 - [a16z Podcast: Cryptocurrencies, App Coins, and Investing in Protocols](https://a16z.com/2017/04/03/cryptocurrencies-protocols-appcoins/)
 - [a16z Podcast: Ethereum, App Coins & Beyond](https://a16z.com/2016/08/28/ethereum/)
+- [The Tim Ferris Show | The Quiet Master of Cryptocurrency — Nick Szabo](https://tim.blog/2017/06/04/nick-szabo/)
 
 ## Other Reading Lists
 - [Chris Dixon](https://medium.com/@cdixon/crypto-token-roundup-4d57c32a87d7)
