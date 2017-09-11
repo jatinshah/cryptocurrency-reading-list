@@ -33,7 +33,7 @@
 
 ## Podcasts
 - [x] [a16z Podcast: Cryptocurrencies, App Coins, and Investing in Protocols](https://a16z.com/2017/04/03/cryptocurrencies-protocols-appcoins/)
-- [] [a16z Podcast: Ethereum, App Coins & Beyond](https://a16z.com/2016/08/28/ethereum/)
+- [ ] [a16z Podcast: Ethereum, App Coins & Beyond](https://a16z.com/2016/08/28/ethereum/)
 - [x] [The Tim Ferris Show: The Quiet Master of Cryptocurrency — Nick Szabo](https://tim.blog/2017/06/04/nick-szabo/)
 
 ## Other Reading Lists
