@@ -27,14 +27,15 @@
 - [Blockchains don’t scale. Not today, at least. But there’s hope.](https://hackernoon.com/blockchains-dont-scale-not-today-at-least-but-there-s-hope-2cb43946551a)
 
 ## Whitepapers
-- [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
-- [Ethereum Whitepaper](https://github.com/ethereum/wiki/wiki/White-Paper)
-- [Bitcoin's Academic Pedigree | ACM Queue, Aug 2017](http://queue.acm.org/detail.cfm?id=3136559)
+- [ ] [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
+- [ ] [Ethereum Whitepaper](https://github.com/ethereum/wiki/wiki/White-Paper)
+- [ ] [Bitcoin's Academic Pedigree | ACM Queue, Aug 2017](http://queue.acm.org/detail.cfm?id=3136559)
 
-## Podcasts
+## Videos & Podcasts
 - [x] [a16z Podcast: Cryptocurrencies, App Coins, and Investing in Protocols](https://a16z.com/2017/04/03/cryptocurrencies-protocols-appcoins/)
 - [ ] [a16z Podcast: Ethereum, App Coins & Beyond](https://a16z.com/2016/08/28/ethereum/)
 - [x] [The Tim Ferris Show: The Quiet Master of Cryptocurrency — Nick Szabo](https://tim.blog/2017/06/04/nick-szabo/)
+- [x] [The Internet of Money - Andreas M. Antonopoulos](https://www.youtube.com/playlist?list=PLPQwGV1aLnTvCuQXCZ3RBvdlCnqstTirl)
 
 ## Other Reading Lists
 - [Chris Dixon](https://medium.com/@cdixon/crypto-token-roundup-4d57c32a87d7)
