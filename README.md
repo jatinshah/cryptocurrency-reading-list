@@ -39,6 +39,7 @@
 - [Hash Power – A Documentary on Blockchains & Cryptocurrencies](http://investorfieldguide.com/hashpower/)
 
 ## Other Reading Lists
+- [Andreessen Horowitz - Crypto Canon](https://a16z.com/2018/02/10/crypto-readings-resources/)
 - [Chris Dixon](https://medium.com/@cdixon/crypto-token-roundup-4d57c32a87d7)
 - [Dan Romero](https://medium.com/@dwr/digital-currency-reading-list-6219f1623bfd)
 - [Ethereum Reading List](https://github.com/Scanate/EthList)
